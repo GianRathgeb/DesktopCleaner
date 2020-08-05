@@ -2,6 +2,7 @@
 ## Clean your desktop
 
 ### :warning: Do not use with Microsoft Accounts
+#### With some acounts the script works
 
 Moves file from User\desktop to C:\desktop
 
